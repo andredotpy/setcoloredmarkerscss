@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+}
+
+.marker {
+    background-color: red;
+}
+
+.primary-red {
+    background-color: rgb(255, 0, 0);
+}
+.primary-green {
+    background-color: rgb(0, 255, 0);
+}
+.primary-blue {
+    background-color: rgb(0, 0, 255);
+}
+
+.secondary-yellow {
+    background-color: rgb(255, 255, 0);
+}
+.secondary-magenta {
+    background-color: rgb(255, 0, 255);
+}
+.secondary-cyan {
+    background-color: rgb(0, 255, 255);
+}
+
+.tertiary-chartreuse-gree {
+    background-color: rgb(127, 255, 0);
+}
+.tertiary-spring-green {
+    background-color: rgb(0, 255, 127);
+}
+.tertiary-azure {
+    background-color: rgb(0, 127, 255);
+}
+.tertiary-violet {
+    background-color: rgb(127, 0, 255);
+}
+.tertiary-rose {
+    background-color: rgb(255, 0, 127);
+}
+.tertiary-orange {
+    background-color: rgb(255, 127, 0);
+}
